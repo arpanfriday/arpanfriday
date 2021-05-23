@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **arpanriju2000@gmail.com**
 
-- 📄 Know about my experiences [https://dituni-my.sharepoint.com/:b:/g/personal/1000012353_dit_edu_in/EZFZ-XyO0NFEkIWwy9mU-9oBlwyu78WovkIYr5Yky35Crw?e=sAwDVj](https://dituni-my.sharepoint.com/:b:/g/personal/1000012353_dit_edu_in/EZFZ-XyO0NFEkIWwy9mU-9oBlwyu78WovkIYr5Yky35Crw?e=sAwDVj)
+- 📄 Know about my experiences [Resume](https://dituni-my.sharepoint.com/:b:/g/personal/1000012353_dit_edu_in/EZFZ-XyO0NFEkIWwy9mU-9oBlwyu78WovkIYr5Yky35Crw?e=sAwDVj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
