@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arpan-m-87a953115" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-11-512.png" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/arpanfriday" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/Untitled-11-512.png" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
