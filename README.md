@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpanfriday&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="arpanfriday" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanfriday&theme=highcontrast" alt="arpanfriday" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpanfriday&theme=dark" alt="arpanfriday" /></p>
