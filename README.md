@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arpan Maity</h1>
 <h3 align="center">A cloud computing and DevOps enthusiast</h3>
 
+- 👨‍💻 All of my projects are available at [https://arpanmaity.me](https://arpanmaity.me)
+
+- 📫 How to reach me **arpanriju2000@gmail.com**
+
+- 📄 Get my **[Resume](https://dituni-my.sharepoint.com/:b:/g/personal/1000012353_dit_edu_in/EZFZ-XyO0NFEkIWwy9mU-9oBlwyu78WovkIYr5Yky35Crw?e=sAwDVj)**
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanfriday" alt="arpanfriday" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
