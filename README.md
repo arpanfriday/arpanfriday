@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Maity</h1>
-<h3 align="center">A cloud computing and DevOps enthusiast</h3>
+<h3 align="center">A cloud computing and Data Engineering enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://arpanmaity.me](https://arpanmaity.me)
 
